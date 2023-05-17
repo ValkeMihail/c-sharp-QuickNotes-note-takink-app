@@ -15,7 +15,7 @@ namespace folder
         {
             InitializeComponent();
            
-            _supabase = new Supabase.Client("https://erlxhoijelsccfxiktwq.supabase.co", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVybHhob2lqZWxzY2NmeGlrdHdxIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODA4MDAxNjQsImV4cCI6MTk5NjM3NjE2NH0.GmACZ332ohO4ccLgf-Ps-wsHjJW4lwzzjcf7x2Lk0pA");
+            _supabase = new Supabase.Client("url", "apiKey");
 
         }
 
