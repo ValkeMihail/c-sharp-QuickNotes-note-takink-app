@@ -1,1 +1,1 @@
-# c-sharp-QuickNotes-note-takink-app
+# c-sharp-QuickNotes-note-taking-app
