@@ -5,4 +5,4 @@ The note-taking app allows users to create and edit notes in an easy and intuiti
 
 The app's user-friendly interface offers advanced functionality, including creating new notes and editing existing notes.
 
-Using modern and secure technologies like Supabase, I have ensured a secure environment for storing and managing grades. The app has been developed with attention to detail, ensuring a smooth user experience and solid protection of personal data.
+Using modern and secure technologies like Supabase, I have ensured a secure environment for storing and managing notes. The app has been developed with attention to detail, ensuring a smooth user experience and solid protection of personal data.
